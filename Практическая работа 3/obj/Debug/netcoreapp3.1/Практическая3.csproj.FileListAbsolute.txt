@@ -1,0 +1,13 @@
+C:\Users\студент\source\repos\Практическая3\bin\Debug\netcoreapp3.1\Практическая3.exe
+C:\Users\студент\source\repos\Практическая3\bin\Debug\netcoreapp3.1\Практическая3.deps.json
+C:\Users\студент\source\repos\Практическая3\bin\Debug\netcoreapp3.1\Практическая3.runtimeconfig.json
+C:\Users\студент\source\repos\Практическая3\bin\Debug\netcoreapp3.1\Практическая3.runtimeconfig.dev.json
+C:\Users\студент\source\repos\Практическая3\bin\Debug\netcoreapp3.1\Практическая3.dll
+C:\Users\студент\source\repos\Практическая3\bin\Debug\netcoreapp3.1\Практическая3.pdb
+C:\Users\студент\source\repos\Практическая3\obj\Debug\netcoreapp3.1\Практическая3.csprojAssemblyReference.cache
+C:\Users\студент\source\repos\Практическая3\obj\Debug\netcoreapp3.1\Практическая3.AssemblyInfoInputs.cache
+C:\Users\студент\source\repos\Практическая3\obj\Debug\netcoreapp3.1\Практическая3.AssemblyInfo.cs
+C:\Users\студент\source\repos\Практическая3\obj\Debug\netcoreapp3.1\Практическая3.csproj.CoreCompileInputs.cache
+C:\Users\студент\source\repos\Практическая3\obj\Debug\netcoreapp3.1\Практическая3.dll
+C:\Users\студент\source\repos\Практическая3\obj\Debug\netcoreapp3.1\Практическая3.pdb
+C:\Users\студент\source\repos\Практическая3\obj\Debug\netcoreapp3.1\Практическая3.genruntimeconfig.cache
